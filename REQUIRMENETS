@@ -1,0 +1,5 @@
+!pip install langchain
+!pip install tiktoken
+!pip install openai
+!pip install streamlit
+!pip install faiss-cpu
